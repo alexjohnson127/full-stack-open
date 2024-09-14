@@ -1,0 +1,4 @@
+browser --> server : GET (html)
+browser --> server : GET (css)
+browser --> server : GET (js)
+browser --> server : GET (notes JSON)
